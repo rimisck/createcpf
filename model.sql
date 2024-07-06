@@ -9,5 +9,5 @@ CREATE TABLE 'cpf.users'(
     id_exped  varchar(255),
     org_exped  varchar(255),
     region  INT(11),
-    cpf INT(11)
+    cpf varchar(255)
 );
