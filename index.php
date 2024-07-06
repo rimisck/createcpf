@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="bootstrap.css">
-    <link rel="shortcut icon" href="https://redepiaui.com/media/image_bank/2017/9/receita-federal.jpg">
+    
     <title>Gerador de CPF</title>
 </head>
 <body>
